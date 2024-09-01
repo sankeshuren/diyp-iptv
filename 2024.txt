@@ -97,8 +97,10 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 台湾Plus,https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+台湾Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId
 
 
@@ -108,9 +110,11 @@ NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 朝日新闻,https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 Bloomberg TV,https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 BS 日视,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS Shochiku Tokyu,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -120,8 +124,10 @@ CBS纽约,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DD India,https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+Fuji TV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 France 24,https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX新闻,https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 HLN,https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
@@ -129,10 +135,17 @@ Hokkaido News UHB,https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u
 India Today,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 Iran International,https://live.playstop.me/LS-63503-4/index.m3u8
 Известия,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+National Geographic Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+NHK E Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NHK G Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK WORLD JP,https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NBC Chicago,https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 Reuters Now,https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 RT新闻,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -142,7 +155,11 @@ RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News AU,https://i.mjh.nz/sky-news-now.m3u8
 Sony Movies,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+TAKARAZUKA SKY STAGE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+TBS News,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+TV Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 Victor Valley Movies,https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
