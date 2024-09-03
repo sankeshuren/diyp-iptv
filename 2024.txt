@@ -100,9 +100,14 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
+
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 台湾Plus,https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 台湾Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
@@ -140,6 +145,8 @@ Hokkaido News UHB,https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u
 India Today,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 Iran International,https://live.playstop.me/LS-63503-4/index.m3u8
 Известия,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 National Geographic Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
