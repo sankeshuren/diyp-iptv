@@ -1,27 +1,26 @@
 央视,#genre#
-CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8
-CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV6,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV10,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV1,http://live.20191209.xyz:5888/migu/608807420.m3u8?migutoken=dbbfe543c7c4c7ed579de25397dd24f2e623f12ba7e689157dbb5d38766c708d952724ce7bb106cf16ff7c8ca7d084e47a453f46c4b28e00801c566d917892dddf314158c67665d99baedc2df3
+CCTV2,http://live.20191209.xyz:5888/migu/631780532.m3u8?migutoken=d62905efd474fd52328b42bd4e981547b2b36f1adda464af1c544ef44bdd1d566c2b5ec4dd977b5b3cf46ed2ba556ca34f1abfa269526b72976447ca17d7b5dcb4b05dacdd5f0b11a09a64ba52
+CCTV3,http://live.20191209.xyz:5888/migu/624878271.m3u8?migutoken=8fc9dced1ba6c84e3b6ab7d4eda1d316cb556788f306ba2439e44c2f86332a7bacc23aa35ea9b75b455bd78c363c6a37c67f11fd291a11b0b974d53e56530d8d87dc537e4dbfe39e1cb57dafc0
+CCTV4,http://live.20191209.xyz:5888/migu/631780421.m3u8?migutoken=5904ecbf1007fe35f7888d71f0b90c7035b522276def1d6843daf00249231b99fa600057e1d014358460a507efeb45bdc93dc1f1d7a6f0745f3c36290f254e18c24e9470eb56f111eb1f638f21
+CCTV5,http://live.20191209.xyz:5888/migu/641886683.m3u8?migutoken=5ed22046d516bd3c5352bbfd0a16e9d3b408d69c42817fbafb38247c96966d3348cec0380718844bc906a833a9fe626902000785b5a7eede33b45cc4eb93f4174e5dd94c031c6e64c7907a5307
+CCTV6,http://live.20191209.xyz:5888/migu/624878396.m3u8?migutoken=ddd6334fee136e716e228453768b6097af1801cf29f5bf3fa1dff5172af425c30cd5d7262cedbb25e34e37e8ef77353068c79858d63f1da68b0b90a22fe8129108a2bb0d8a9033775a8aa00dc7
+CCTV7,http://live.20191209.xyz:5888/migu/673168121.m3u8?migutoken=57790cb3ab6ff73d7aa8b1e778daa4b57c7e0db772e27384edfea81f67fa98108f28a0951858236130b7ee4ae99877470528b3424c44dac7eb4d3d2f77bb5396c8573fc0cb6586d6f293d7aaae
+CCTV8,http://live.20191209.xyz:5888/migu/624878356.m3u8?migutoken=c392d504973868cf976c2372267e1c376e388b6d6022ce1d60e3cd394fd50e78ce48700259b2c032a47454f1be9ae012f6f5dd7b2903e0db62cd1a5922004cce43f5f29e3acb4ad224f348338d
+CCTV9,http://live.20191209.xyz:5888/migu/673168140.m3u8?migutoken=c29a4c7bd56f1aa1955c1bb40d9d74bc87271143452fb3fb773af5940795fe109d51616389e17f0573b3709713339997b643a5a9e59c17641cea68aa211e679fc634d7994d5e6bfaddfa19da76
+CCTV10,http://live.20191209.xyz:5888/migu/624878405.m3u8?migutoken=755b2653d5443dae4b2e9f06a4c893258f5b058937ec74d81c025bc9f35f60d41c7b34004c736eb5a424e588c047014aaaa37013bbef43ec8133668a489f547160a47c1508322d33c7298b6cfc
+CCTV11,http://live.20191209.xyz:5888/migu/667987558.m3u8?migutoken=e343df0f54d2f0e194a5b3eb0697c42d4a7cc7b3f5cdcb56853a9c6a520af12c79b9b7aa8eafaa6c8233a208fff6ee9e6cdc756c62c91943354fe4dc4fa3b1262f5a187d36ba1f304928b25fe1
+CCTV12,http://live.20191209.xyz:5888/migu/673168185.m3u8?migutoken=15e021ceef57ab2012485b3d723b7a1e10dce3dae60033f1459efaf2d05acdc968a97e099c05e81de7a94e601d3ff4cd62f82649ca986be3acc07951a5b41c8ab6970a8794f0166870a92862c2
+CCTV13,http://live.20191209.xyz:5888/migu/608807423.m3u8?migutoken=79d6eaeca62b61b274c9cff9f1880eea51c36e3223797915ade4589f8c62d4c0f4388009842e013b1e52bb2602000ed9521a8299cc14929678c9ebebbb9fe654599a06aee5b86e2d1f7a043da0
+CCTV14,http://live.20191209.xyz:5888/migu/624878440.m3u8?migutoken=adf5d4d059fe1168a0809efa3b55a0df39d498860e453aa4c4988b4e319918e54212abc1e3f851a46cae68a9ca0a02c5d42a06384c23db9365dc181687293e26759d73336b6c64c0a0da32cd23
+CCTV15,http://live.20191209.xyz:5888/migu/673168223.m3u8?migutoken=23d0f97424db9b5aa5af50888c45c60d06523067890ef825f4a33f90790c923c6ed6b9395d3a1f804e991a20f99b52e1708ebe37050ed86679dfd3f58e601727de49a27470c3b28a50cd5a6273
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV17,http://live.20191209.xyz:5888/migu/673168256.m3u8?migutoken=bab72d24db595be34ac41f81c938a8a15a3e83ce39487e3fc79af0ee1f9818b0c389b246a049dab4322b2503f5d638b2dca3054347d2710971e6b97a0bf7760a6bf740c04b6e035c7f999d5479
+CCTV5+,http://live.20191209.xyz:5888/migu/641886773.m3u8?migutoken=b9aaec1e290135be2d5ff33a5eda1f6e5152d850be6124566f8238ddad78950d89c3edcf565f2357782a35dbbebeef726dd4ed2cef214586dc45754210c4eda646249792459995f3fa16c2a0c3
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN英语,http://live.20191209.xyz:5888/migu/609017205.m3u8?migutoken=85924cb6f79b55f40fe0c46a6dc6258e51d4aa7a19a70869f3ec485ef811ba947519ae2f850295ff5c57053896e58db25a3f1e9ed8fd62327f85e964d621f4531d2fe457de57f250bdfa070541
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -74,14 +73,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
-凤凰香港,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk
 凤凰电影,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 广汉电台,http://125.64.92.153/dcpull.ghrmt.cn/live/5c2c4a98018f10009b4cb2db00000000/playlist.m3u8?wsSecret=5c7f02179fac62bcd5e37b677587881b&wsTime=1724951555&wsSession=6f74061c6fec5fdbd5780856-172495149536409&wsIPSercert=d630423fc9037516ad85a193f5e01011&wsiphost=local&wsBindIP=1
 广汉综合,http://125.64.92.153/dcpull.ghrmt.cn/live/5c2bdb1a018f100098165ffc00000000/playlist.m3u8?wsSecret=72c6044da4af6ab43f98576d779962b8&wsTime=1724951228&wsSession=6f74061c6fec5fdbd5780856-172495116793763&wsIPSercert=d630423fc9037516ad85a193f5e01011&wsiphost=local&wsBindIP=1
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
@@ -104,6 +104,7 @@ CHC影迷电影,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/
 NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 好莱坞电影,https://stream1.freetv.fun/hao-lai-wu-dian-ying-2.ctv
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
@@ -111,6 +112,7 @@ NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
@@ -119,9 +121,8 @@ NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 台湾Plus,https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 台湾Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 TVBS,https://stream1.freetv.fun/tvbs-9.ctv
-TVBS新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv072
-TVBS新闻,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId
 
 
@@ -132,19 +133,24 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 朝日新闻,https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 BBC,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC,http://doubleclicktv.live/70376812/52663544/277194
+BBC,http://doubleclicktv.live/70376812/52663544/277195
 Bloomberg TV,https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 BS 日视,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 BS Shochiku Tokyu,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+CNN,http://doubleclicktv.live/70376812/52663544/277181
+CNN,http://ua-iptv.com:8080//Balcony11/8036405556/707932
 CNN Europe,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CBS纽约,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+Discovery History,http://ua-iptv.com:8080//Balcony11/8036405556/755272
+Discovery Science,http://ua-iptv.com:8080//Balcony11/8036405556/755273
 DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DD India,https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+Euronews,http://doubleclicktv.live/70376812/52663544/277192
 Fuji TV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 France 24,https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -160,7 +166,8 @@ KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-National Geographic Japan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+National Geographic,http://ua-iptv.com:8080//Balcony11/8036405556/707512
+NAT GEO WILD,http://ua-iptv.com:8080//Balcony11/8036405556/707510
 NEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 NHK E Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
@@ -176,7 +183,8 @@ RT新闻,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Россия 24,http://moobl.ru/hls/Russia_24.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+Sky News,http://doubleclicktv.live/70376812/52663544/277190
+Sky News,http://doubleclicktv.live/70376812/52663544/277189
 Sky News AU,https://i.mjh.nz/sky-news-now.m3u8
 Sony Movies,http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 TAKARAZUKA SKY STAGE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
@@ -185,4 +193,12 @@ Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 TV Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 Victor Valley Movies,https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+World Fishing Network,http://ua-iptv.com:8080//Balcony11/8036405556/707913
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+
+剧集,#genre#
+周星驰电影,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+成龙电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+刘德华电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
