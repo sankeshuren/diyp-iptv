@@ -114,7 +114,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC影迷电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 NewTV超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
