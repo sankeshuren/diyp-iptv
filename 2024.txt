@@ -214,3 +214,7 @@ Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 成龙电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
 刘德华电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
+蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30837590
+海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
+黄渤电影,https://live.metshop.top/huya/11352876
+经典港片,https://live.metshop.top/huya/11352965
