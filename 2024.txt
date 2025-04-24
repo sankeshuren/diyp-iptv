@@ -1,33 +1,26 @@
 央视,#genre#
-CCTV1,http://36.105.100.208:35455/gaoma/cctv1.m3u8
-CCTV1,http://47.242.229.105:35455/gaoma/cctv1.m3u8
-CCTV2,http://39.187.68.194:5027/TVOD/1000000001000023315/ystenlive/index.m3u8
-CCTV2,http://112.81.218.254:35455/gaoma/cctv2.m3u8
-CCTV3,http://36.105.100.208:35455/gaoma/cctv3.m3u8
-CCTV3,http://39.187.68.194:5027/TVOD/1000000005000265003/ystenlive/index.m3u8
-CCTV4,http://36.105.100.208:35455/gaoma/cctv4.m3u8
-CCTV4,http://47.242.229.105:35455/gaoma/cctv4.m3u8
-CCTV5,http://115.159.35.169:35455/gaoma/cctv5.m3u8
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV1,https://url.freenet.ddns-ip.net/1Itty0C7nS
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV6,http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
-CCTV6,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND
-CCTV7,http://47.242.229.105:35455/gaoma/cctv7.m3u8
-CCTV8,http://47.242.229.105:35455/gaoma/cctv8.m3u8
-CCTV8,http://112.81.218.254:35455/gaoma/cctv8.m3u8
-CCTV9,http://36.105.100.208:35455/gaoma/cctv9.m3u8
-CCTV9,http://home.kuaidi521.com:35455/gaoma/cctv9.m3u8
-CCTV10,http://47.242.229.105:35455/gaoma/cctv10.m3u8
-CCTV11,http://47.242.229.105:35455/gaoma/cctv11.m3u8
-CCTV12,http://112.81.218.254:35455/gaoma/cctv12.m3u8
-CCTV13,http://47.242.229.105:35455/gaoma/cctv13.m3u8
-CCTV13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
-CCTV14,http://36.105.100.208:35455/gaoma/cctv14.m3u8
-CCTV14,http://home.kuaidi521.com:35455/gaoma/cctv14.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://107.174.52.32/itv.php?id=CCTV9
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://107.174.52.32/itv.php?id=CCTV11
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV15,http://home.kuaidi521.com:35455/gaoma/cctv15.m3u8
 CCTV16,http://36.105.100.208:35455/gaoma/cctv16.m3u8
 CCTV16,http://home.kuaidi521.com:35455/gaoma/cctv16.m3u8
 CCTV17,http://112.81.218.254:35455/gaoma/cctv17.m3u8
 CCTV17,http://home.kuaidi521.com:35455/gaoma/cctv17.m3u8
-CCTV5+,http://47.242.229.105:35455/gaoma/cctv5p.m3u8
+CCTV5+,https://url.freenet.ddns-ip.net/gZRK9yKxr6
 CCTV4K,http://47.242.229.105:35455/gaoma/cctv4k.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
@@ -44,30 +37,30 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 卫视,#genre#
-北京卫视,http://39.187.68.194:5027/TVOD/1000000005000265027/ystenlive/index.m3u8
-湖南卫视,http://39.187.68.194:5027/TVOD/1000000005000265024/ystenlive/index.m3u8
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-东方卫视,http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8
-四川卫视,http://110.53.52.63:8888/newlive/live/hls/31/live.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+四川卫视,https://url.freenet.ddns-ip.net/zhiztfkt75
 天津卫视,http://39.187.68.194:5027/TVOD/1000000005000265026/ystenlive/index.m3u8
-安徽卫视,http://39.187.68.194:5027/TVOD/1000000005000265025/ystenlive/index.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 山东卫视,http://39.187.68.194:5027/TVOD/1000000005000265019/ystenlive/index.m3u8
 广东卫视,http://39.187.68.194:5027/TVOD/1000000005000265034/ystenlive/index.m3u8
 广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
-江苏卫视,http://39.187.68.194:5027/TVOD/1000000005000265030/ystenlive/index.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江西卫视,http://39.187.68.194:5027/TVOD/1000000005000265032/ystenlive/index.m3u8
 河北卫视,http://220.164.192.48:50085/tsfile/live/0113_1.m3u8
 河南卫视,http://110.53.52.63:8888/newlive/live/hls/32/live.m3u8
-浙江卫视,http://220.164.192.48:50085/tsfile/live/0127_1.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 海南卫视,http://220.164.192.48:50085/tsfile/live/1003_1.m3u8
 深圳卫视,http://58.210.168.86:10800/newlive/live/hls/26/live.m3u8
 湖北卫视,http://39.187.68.194:5027/TVOD/1000000005000265023/ystenlive/index.m3u8
 山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 东南卫视,http://39.187.68.194:5027/TVOD/1000000005000265033/ystenlive/index.m3u8
 贵州卫视,http://110.53.52.63:8888/newlive/live/hls/28/live.m3u8
-辽宁卫视,http://36.134.80.169:8833/TVOD/1000000005000265022/ystenlive/index.m3u8
-重庆卫视,http://39.187.68.194:5027/TVOD/1000000005000265017/ystenlive/index.m3u8
-黑龙江卫视,http://110.53.52.63:8888/newlive/live/hls/44/live.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+重庆卫视,https://url.freenet.ddns-ip.net/jcsqpCC5iE
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+内蒙古卫视,https://url.freenet.ddns-ip.net/JN35hhHWRQ
 内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
 宁夏卫视,http://110.53.52.63:8888/newlive/live/hls/39/live.m3u8
 陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8
@@ -83,12 +76,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-厦门卫视,http://45.205.27.14:50001/1000000005000266006/ystenlive/index.m3u8
+厦门卫视,https://url.freenet.ddns-ip.net/Pg8ZB9xp9d
 康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
+凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
@@ -121,14 +114,18 @@ NewTV精品记录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 好莱坞电影,https://stream1.freetv.fun/hao-lai-wu-dian-ying-2.ctv
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+民视新闻,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+东森新闻,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天新闻,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+华视新闻,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+三立iNews,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 台湾Plus,https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 台湾Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
@@ -205,6 +202,7 @@ Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 TV Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 Victor Valley Movies,https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+VOA,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv03/index.m3u8
 World Fishing Network,http://ua-iptv.com:8080//Balcony11/8036405556/707913
 Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
