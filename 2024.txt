@@ -8,6 +8,7 @@ CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo3
 CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
 CCTV6,http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
 CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
+CCTV6,http://211.67.112.197/hls/cctv6hd.m3u8
 CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
 CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
 CCTV9,http://107.174.52.32/itv.php?id=CCTV9
@@ -219,5 +220,6 @@ Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
 黄渤电影,https://live.metshop.top/huya/11352876
 经典港片,https://live.metshop.top/huya/11352965
+
 
 
