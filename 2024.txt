@@ -1,5 +1,6 @@
 央视,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
+CCTV1,https://atv.sksren.com/c1.m3u8
 CCTV1,https://url.freenet.ddns-ip.net/1Itty0C7nS
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
 CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8?vXr5GP+It4nbLRbYpK/2/S3mcRv/Vlbo38C88w==
@@ -218,4 +219,5 @@ Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
 黄渤电影,https://live.metshop.top/huya/11352876
 经典港片,https://live.metshop.top/huya/11352965
+
 
